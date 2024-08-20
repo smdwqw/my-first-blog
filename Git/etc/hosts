@@ -1,0 +1,17 @@
+127.0.0.1 localhost
+
+127.0.0.1 steamcommunity.com #S302
+
+127.0.0.1 www.steamcommunity.com #S302
+
+127.0.0.1 store.steampowered.com #S302
+
+127.0.0.1 checkout.steampowered.com #S302
+
+127.0.0.1 api.steampowered.com #S302
+
+127.0.0.1 help.steampowered.com #S302
+
+127.0.0.1 login.steampowered.com #S302
+
+127.0.0.1 store.akamai.steamstatic.com #S302
